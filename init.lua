@@ -1,6 +1,4 @@
 vim.opt.mouse = ""
-vim.opt.path:append("**")
-
 vim.opt.number = true
 vim.opt.relativenumber = true
 
